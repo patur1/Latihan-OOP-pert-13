@@ -51,3 +51,5 @@
 3. Ubah data salah satu mahasiswa
 ![image](https://github.com/user-attachments/assets/49c7bf67-074c-4c3f-be82-61c34355c7c0)
 4. Hapus data salah satu mahasiswa
+![image](https://github.com/user-attachments/assets/09a3314e-ac87-4375-b82a-d5b4f9d0eb56)
+5. selesai
