@@ -49,3 +49,5 @@
 2. Masukkan Data Mahasiswa
 ![image](https://github.com/user-attachments/assets/ad05fd38-7cf4-4dee-840f-74b5bfabc878)
 3. Ubah data salah satu mahasiswa
+![image](https://github.com/user-attachments/assets/49c7bf67-074c-4c3f-be82-61c34355c7c0)
+4. Hapus data salah satu mahasiswa
