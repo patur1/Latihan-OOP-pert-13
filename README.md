@@ -43,3 +43,5 @@
                           root = tk.Tk()
                           app = MainApp(root)
                           root.mainloop()
+# Hasil Run Python
+1. Tampilan awal
