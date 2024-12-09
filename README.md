@@ -46,3 +46,6 @@
 # Hasil Run Python
 1. Tampilan awal
 ![image](https://github.com/user-attachments/assets/770b0272-1308-4977-81fa-0964d1139292)
+2. Masukkan Data Mahasiswa
+![image](https://github.com/user-attachments/assets/ad05fd38-7cf4-4dee-840f-74b5bfabc878)
+3. Ubah data salah satu mahasiswa
